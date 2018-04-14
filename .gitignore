@@ -1,0 +1,6 @@
+*.pyc
+*~
+__pycache__
+/fwplvenv
+db.sqlite3
+My_Error_Log.log
